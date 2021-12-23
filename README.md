@@ -34,13 +34,13 @@
 <br />
 
 <p>
-    <img width=48% src="https://github-readme-stats.vercel.app/api?username=codyuhi&show_icons=true&theme=dracula&count_private=true&show_icons=true&hide=stars,issues,contribs" style="max-width: 100%;"/>
     <img width-48% src="https://github-readme-stats.vercel.app/api/top-langs/?username=codyuhi&layout=compact&theme=dracula&langs_count=10" style="max-width: 100%;" />
+    <img width=48% src="https://github-readme-stats.vercel.app/api?username=codyuhi&show_icons=true&theme=dracula&count_private=true&show_icons=true&hide=stars,issues,contribs" style="max-width: 100%;"/>
 </p>
 
 ### 👆 Top Repositories
 
 <p>
-    <img width=48% src="https://github-readme-stats.vercel.app/api/pin/?username=codyuhi&repo=portfolio&theme=cobalt" />
     <img width=48% src="https://github-readme-stats.vercel.app/api/pin/?username=codyuhi&repo=quality-of-life&theme=cobalt" />
+    <img width=48% src="https://github-readme-stats.vercel.app/api/pin/?username=codyuhi&repo=portfolio&theme=cobalt" />
 </p>
