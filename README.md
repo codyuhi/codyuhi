@@ -4,7 +4,7 @@
 
 ### I'm a Full-Stack Software Engineer, Site Reliability Engineer, and an App Enthusiast 😊
 
-* 🏢 I work as an SRE at Vivint Smart Home, a tech company based in Utah, USA
+* 🏢 I work as an SRE at Blizzard Entertainment, a video game company based in Irvine, California
 * 🐈 BYU Information Technology & Computer Science BS Class of 2021
 * 🔭 I'm currently working on many personal projects managed here on Github
 * 🌱 I'm currently learning programming languages and technologies to support those personal projects. Mostly full-stack web tech
