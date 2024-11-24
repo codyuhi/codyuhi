@@ -2,6 +2,8 @@
 
 # Hi 👋, I'm Cody
 
+# THIS PROFILE IS A WORK IN PROGRESS
+
 ### I'm a Full-Stack Software Engineer, Site Reliability Engineer, and an App Enthusiast 😊
 
 * 🏢 I work as an SRE at TikTok Inc, a tech company in Seattle, WA
