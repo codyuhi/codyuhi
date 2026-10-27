@@ -2,7 +2,7 @@
 
 # Cody Uhi
 
-<p>SRE Tech Lead for Network Reliability at Adobe</p>
+<p>Lead Site Reliability Engineer for Network Reliability at Adobe</p>
 <p>BS Information Technology / Computer Science from Brigham Young University</p>
 <p>
     <a href="https://www.linkedin.com/in/codyuhi/">
